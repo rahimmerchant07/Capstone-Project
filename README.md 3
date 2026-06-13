@@ -2,7 +2,9 @@
 
 Rahim Merchant
 
-#### Manufacturing organizations rely on stable operating conditions to maintain equipment reliability, production efficiency, and product quality. The goal of this project is to determine whether machine learning can be used to identify non-optimal operating conditions using machine and process-related data.
+#### Exectutive Summary
+
+Manufacturing organizations rely on stable operating conditions to maintain equipment reliability, production efficiency, and product quality. The goal of this project is to determine whether machine learning can be used to identify non-optimal operating conditions using machine and process-related data.
 
 Using the AI4I 2020 Predictive Maintenance Dataset, exploratory data analysis (EDA) was performed to better understand the relationships between key operating variables. Logistic Regression and K-Nearest Neighbours (KNN) were then used as baseline classification models.
 
