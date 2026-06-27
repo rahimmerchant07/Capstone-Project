@@ -24,6 +24,7 @@ The goal of this project was not to replace the knowledge of maintenance or oper
 
 
 # Research Question
+
 Can machine learning be used to predict whether manufacturing operating conditions are optimal or non-optimal based on machine and process-related variables?
 
 # Data Sources
@@ -99,7 +100,8 @@ Additional process variables and sensor data, such as vibration, pressure, or en
 Finally, the model could be integrated into a predictive maintenance workflow where reliability and maintenance teams receive early warnings when operating conditions begin moving away from normal ranges. This would allow maintenance activities to be planned before equipment failures occur, helping reduce unplanned downtime and improve overall equipment reliability.
 
 ## Outline of Project
--
+
+- https://github.com/rahimmerchant07/Capstone-Project/blob/main/Capstone%20Initial%20Report%20%26%20EDA.ipynb
 -
 
 ## Contact and Further Information
