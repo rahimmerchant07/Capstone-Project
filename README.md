@@ -102,7 +102,7 @@ Finally, the model could be integrated into a predictive maintenance workflow wh
 ## Outline of Project
 
 - https://github.com/rahimmerchant07/Capstone-Project/blob/main/Capstone%20Initial%20Report%20%26%20EDA.ipynb
--
+- https://github.com/rahimmerchant07/Capstone-Project/blob/main/Capstone_Modeling.ipynb
 
 ## Contact and Further Information
 
